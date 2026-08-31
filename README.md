@@ -1,109 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Anup%20Gotame&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey,%20I'm%20Anup%20Gotame&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=20&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%40+Amrit+Science+Campus;Learning+FastAPI+%2B+PostgreSQL+%2B+React;Building+Authentication+Systems+From+Scratch;Learning+by+Building.+Building+by+Breaking." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&width=650&height=90&lines=BSc+CSIT+Student+%40+Amrit+Science+Campus;Building+APIs+with+FastAPI+%2B+PostgreSQL;Learning+by+Building.+Building+by+Breaking.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/anupgotame">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=anupgotame&label=Profile%20Views&color=f72585&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/anupgotame?label=Followers&style=for-the-badge&color=4361ee&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/anupgotame"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## About
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-I'm a **BSc CSIT student at Amrit Science Campus (ASCOL)** working toward becoming a strong full-stack developer, with a particular focus on **backend systems, APIs, databases, and clean software architecture**.
+## ⚡ About Me
 
-I learn by building — and by breaking things and figuring out why they broke.
-
-```text
-Learn → Build → Break → Debug → Understand → Improve
+```yaml
+name: Anup Gotame
+role: BSc CSIT Student @ Amrit Science Campus (ASCOL)
+focus: Backend Development | APIs | Databases | Clean Architecture
+mindset: "Learning by building. Building by breaking. Improving every day."
+currently_learning: [FastAPI, PostgreSQL, SQLAlchemy, React, Docker]
 ```
 
+<div align="center">
+
+`Learn`  →  `Build`  →  `Break`  →  `Debug`  →  `Understand`  →  `Improve`
+
+</div>
+
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp&theme=dark" />
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" />
 
-</td>
-<td valign="top" width="50%">
+**Tools & Environment**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
 
-**Backend**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alembic-333333?style=flat-square"/>
-
-**Database & Tools**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-## Currently Building
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🚧 What I'm Building
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Expense Tracker API
+### 💰 Expense Tracker API
+A backend project built to understand how production-grade systems are actually structured.
 
-A backend project built to understand how production-grade backend systems are structured — repository/service layers, async database access, and secure auth, not just CRUD.
-
-- FastAPI + Async SQLAlchemy
-- Repository & Service pattern
-- JWT access/refresh tokens
-- HTTP-only cookies, password hashing
-- Alembic migrations, Docker
+- ⚙️ FastAPI + Async SQLAlchemy
+- 🗂️ Repository & Service pattern
+- 🔐 JWT access/refresh tokens
+- 🍪 HTTP-only cookies, password hashing
+- 📦 Alembic migrations, Docker
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Authentication System
-
-Building auth from the ground up to understand what actually happens behind a login screen.
+### 🔐 Authentication System
+Built from scratch to understand what really happens behind a login screen.
 
 ```text
 Register → Hash Password → Store
 Login → Verify → Issue Tokens
-Access Token + Refresh Token
-        ↓
-  Protected Routes
+    Access + Refresh Token
+           ↓
+    Protected Routes 🔒
 ```
 
 </td>
@@ -112,51 +103,73 @@ Access Token + Refresh Token
 
 <br/>
 
-## Foundations
-
-Alongside application development, I'm building depth in core computer science:
-
-`Data Structures & Algorithms` · `Computer Architecture` · `Statistics` · `Database Systems` · `Numerical Methods` · `Web Development`
-
-I've also worked with machine learning tooling — Pandas, NumPy, Scikit-learn, XGBoost, and PyTorch — through coursework and workshops.
-
-<br/>
-
-## GitHub Activity
+## 📚 Core Foundations
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anupgotame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupgotame&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupgotame&theme=tokyo-night&hide_border=true" width="98%"/>
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-F72585?style=for-the-badge)
+![CompArch](https://img.shields.io/badge/Computer%20Architecture-7209B7?style=for-the-badge)
+![Stats](https://img.shields.io/badge/Statistics-3A0CA3?style=for-the-badge)
+![DB](https://img.shields.io/badge/Database%20Systems-4361EE?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web%20Development-4CC9F0?style=for-the-badge)
+
+Also explored: **Pandas · NumPy · Scikit-learn · XGBoost · PyTorch** through ML coursework and workshops.
+
 </div>
 
 <br/>
 
-## Contribution Snake
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anupgotame/anupgotame/output/github-contribution-grid-snake.svg" width="98%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anupgotame&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupgotame&theme=radical&hide_border=true&background=0d1117" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupgotame&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupgotame&theme=react-dark&hide_border=true&bg_color=0d1117" width="98%"/>
+
 </div>
 
-<sub>Snake animation is generated automatically by GitHub Actions on every push — see the workflow below.</sub>
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anupgotame&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
 
 <br/>
 
-## Beyond Code
+## 🐍 Contribution Snake
 
-Football, series and anime, and generally figuring out how things work under the hood.
+<div align="center">
+<img src="https://raw.githubusercontent.com/anupgotame/anupgotame/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</div>
+
+<sub>Auto-generated by GitHub Actions on every push — workflow file included separately.</sub>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## ⚽ Beyond Code
+
+Football · Anime & series · Figuring out how things work under the hood
 
 <br/>
 
 <div align="center">
 
-**Keep learning. Keep building. Keep improving.**
+### 💜 Keep learning. Keep building. Keep improving.
 
-<sub>"The goal isn't to know everything. The goal is to keep becoming better."</sub>
+<sub><i>"The goal isn't to know everything — the goal is to keep becoming better."</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" />
 
 </div>
